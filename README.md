@@ -13,7 +13,7 @@ further dockerized for production-ready usage.
 - Data preprocessing and feature engineering
 - Machine learning model training and evaluation
 - REST API for real-time predictions using FastAPI
-- Docker-based containerized deployment
+- Docker-based containerized deployment (Dockerized API :- https://hub.docker.com/u/itsshivaam)
 
 ## Input Features
 - Number of dependents  
