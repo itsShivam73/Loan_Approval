@@ -16,7 +16,7 @@ deployment and Dockerized API.
 
 ## Demo
 
-<!-- Replace YOUR_VIDEO_ID with your YouTube video ID once ready -->
+
 [![Loan Approval Prediction Demo](https://img.youtube.com/vi/V0YuGOytDMo/hqdefault.jpg)](https://www.youtube.com/watch?v=V0YuGOytDMo)
 
 > Click the thumbnail above to watch the demo.
